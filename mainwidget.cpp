@@ -55,7 +55,7 @@ MainWidget::MainWidget(QWidget *parent)
     });
 
     // ================ Adding dynamically ==============================
-    ScrollingLabel *scrollingText_5 = new ScrollingLabel("Dynaic added label", this);
+    ScrollingLabel *scrollingText_5 = new ScrollingLabel("Dynamic added label", this);
     scrollingText_5->setGeometry(50, 300, 570, 50);
     scrollingText_5->setBackgroundColor(QColor(0x30, 0x30, 0x30));
     scrollingText_5->setTextColor(QColor(0xa0, 0xa0, 0xa0));
