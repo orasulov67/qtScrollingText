@@ -1,2 +1,2 @@
 # qtScrollingText
-Scrolling text widget demonstration for QT
+QT Scrolling text widget Demo
