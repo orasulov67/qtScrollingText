@@ -1,5 +1,5 @@
 # qtScrollingText
-Scrolling text widget demonstration for QT
+QT Scrolling text widget Demo
 
 The **ScrollingLabel** widget is based on a **QLabel** with **QPixmap** type content.
 
